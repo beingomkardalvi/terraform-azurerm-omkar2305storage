@@ -1,0 +1,1 @@
+# terraform-azurerm-omkar2305storage
